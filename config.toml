@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://cocky-ritchie-42a691.netlify.com"
+baseurl = "https://gracious-kowalevski-1e82bc.netlify.com"
 languageCode = "en-us"
 title = "Blog | Alexis Okamura | Full Stack Developer - Honolulu, HI"
 theme = "hugo-cactus-theme"
