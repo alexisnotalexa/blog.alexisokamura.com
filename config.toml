@@ -1,3 +1,23 @@
-baseURL = "http://example.org/"
+# Site settings
+baseurl = "https://cocky-ritchie-42a691.netlify.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Blog | Alexis Okamura | Full Stack Developer - Honolulu, HI"
+theme = "hugo-cactus-theme"
+googleAnalytics = ""
+
+[params]
+  name = "Alexis Okamura"
+  description = ""
+  bio = "my journey into the wild world of tech"
+  twitter = "alexisnotalexa"
+  aboutAuthor = ""
+  enableRSS = false
+
+  iconFont = "mono-social"
+  socialIconStyle = "circle"
+
+[social]
+    twitter  = "https://www.twitter.com/alexisnotalexa"
+    github   = "https://www.github.com/alexisnotalexa"
+    linkedin = "https://www.linkedin.com/in/alexiskokamura/"
+    imessage  = "mailto:alexiskokamura@gmail.com"
